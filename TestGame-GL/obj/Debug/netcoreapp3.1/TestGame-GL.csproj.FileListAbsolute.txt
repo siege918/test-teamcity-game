@@ -13,7 +13,6 @@ C:\Users\mebec\Repos\test-game\TestGame-GL\bin\Debug\netcoreapp3.1\runtimes\win-
 C:\Users\mebec\Repos\test-game\TestGame-GL\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\soft_oal.dll
 C:\Users\mebec\Repos\test-game\TestGame-GL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\SDL2.dll
 C:\Users\mebec\Repos\test-game\TestGame-GL\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\soft_oal.dll
-C:\Users\mebec\Repos\test-game\TestGame-GL\obj\Debug\netcoreapp3.1\TestGame-GL.csprojAssemblyReference.cache
 C:\Users\mebec\Repos\test-game\TestGame-GL\obj\Debug\netcoreapp3.1\TestGame-GL.AssemblyInfoInputs.cache
 C:\Users\mebec\Repos\test-game\TestGame-GL\obj\Debug\netcoreapp3.1\TestGame-GL.AssemblyInfo.cs
 C:\Users\mebec\Repos\test-game\TestGame-GL\obj\Debug\netcoreapp3.1\TestGame-GL.csproj.CoreCompileInputs.cache
@@ -21,3 +20,5 @@ C:\Users\mebec\Repos\test-game\TestGame-GL\obj\Debug\netcoreapp3.1\TestGame-GL.c
 C:\Users\mebec\Repos\test-game\TestGame-GL\obj\Debug\netcoreapp3.1\TestGame-GL.dll
 C:\Users\mebec\Repos\test-game\TestGame-GL\obj\Debug\netcoreapp3.1\TestGame-GL.pdb
 C:\Users\mebec\Repos\test-game\TestGame-GL\obj\Debug\netcoreapp3.1\TestGame-GL.genruntimeconfig.cache
+C:\Users\mebec\Repos\test-game\TestGame-GL\obj\Debug\netcoreapp3.1\TestGame-GL.csproj.AssemblyReference.cache
+C:\Users\mebec\Repos\test-game\TestGame-GL\obj\Debug\netcoreapp3.1\TestGame-GL.GeneratedMSBuildEditorConfig.editorconfig

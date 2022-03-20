@@ -15,10 +15,11 @@
     <PackageReference Include="MonoGame.Framework.DesktopGL" Version="3.8.0.1641" />
     <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.0.1641" />
   </ItemGroup>
-  <Target Name="SpicNSpan"  AfterTargets="Clean">
+  <Target Name="SpicNSpan" AfterTargets="Clean">
          <!-- Remove obj folder -->
          <RemoveDir Directories="$(BaseIntermediateOutputPath)" />
          <!-- Remove bin folder -->
          <RemoveDir Directories="$(BaseOutputPath)" />
      </Target>
+  <Import Project="..\CommonGame\CommonGame.projitems" Label="Shared" />
 </Project>
